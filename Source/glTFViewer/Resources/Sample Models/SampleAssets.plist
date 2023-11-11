@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>previewImageName</key>
+		<string>FlightHelmet-thumbnail</string>
+		<key>displayName</key>
+		<string>Flight Helmet</string>
+		<key>filename</key>
+		<string>FlightHelmet.glb</string>
+	</dict>
+	<dict>
+		<key>previewImageName</key>
+		<string>OutdoorChairs-thumbnail</string>
+		<key>displayName</key>
+		<string>Outdoor Chairs</string>
+		<key>filename</key>
+		<string>outdoor-chairs.glb</string>
+	</dict>
+	<dict>
+		<key>displayName</key>
+		<string>Mixer</string>
+		<key>previewImageName</key>
+		<string>Mixer-thumbnail</string>
+		<key>filename</key>
+		<string>Mixer.glb</string>
+	</dict>
+	<dict>
+		<key>previewImageName</key>
+		<string>Fox-thumbnail</string>
+		<key>displayName</key>
+		<string>Fox</string>
+		<key>filename</key>
+		<string>Fox.glb</string>
+	</dict>
+	<dict>
+		<key>previewImageName</key>
+		<string>PotOfCoals-thumbnail</string>
+		<key>displayName</key>
+		<string>Pot of Coals</string>
+		<key>filename</key>
+		<string>PotOfCoals.glb</string>
+	</dict>
+	<dict>
+		<key>previewImageName</key>
+		<string>ClearCoatCarPaint-thumbnail</string>
+		<key>displayName</key>
+		<string>Clearcoat Car Paint</string>
+		<key>filename</key>
+		<string>ClearCoatCarPaint.glb</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "dracoswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/warrenm/DracoSwift",
+      "state" : {
+        "revision" : "753dda00a67debba06ec3cb25750603f8a6026f0",
+        "version" : "1.5.6"
+      }
+    },
+    {
+      "identity" : "gltfkit2",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/warrenm/GLTFKit2",
+      "state" : {
+        "revision" : "99c73a52344b293f3ba8ad567680195270f13ed8",
+        "version" : "0.5.3"
+      }
+    }
+  ],
+  "version" : 2
+}

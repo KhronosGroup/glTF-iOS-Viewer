@@ -1,0 +1,5 @@
+xcuserdata
+*.xcscmblueprint
+*.xccheckout
+.DS_Store
+.swiftpm
